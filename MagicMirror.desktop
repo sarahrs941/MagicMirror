@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MagicMirror
+Comment=My app
+Icon=/home/pi/MagicMirror/icon.png
+Exec=lxterminal -e 'sh run.sh'
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;
